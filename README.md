@@ -1,2 +1,6 @@
 # criando-maquinas-virtuais-na-azure
 repositório sobre minhas experiências com os primeiros tópicos sobre Cloud
+
+
+
+Minhas experiências com o curso, observando as diferentes formas de nuvem existentes, me traz um entusiasmo ao entrar nesta área, sendo meu primeiro curso sobre tecnologia que participo, alguns tópicos são meio confusos mas, com o tempo, creio que vou me acostumando com a área. Estou na minha primeira semana do curso, indicado pela minha faculdade, e acredito ser uma boa oportunidade para crescer na tecnologia. Os aplicativos demonstrados são realmente úteis, mesmo não os conhecendo antes, com alguns tutoriais que o próprio curso nos traz, consigo ter facilidade em utilizá-los. Acredito que estes tópicos, como a inteligência artificial e nuvem estejam em uma demanda crescente no mundo globalizado, e as suas diferentes formas, híbrida, on-premise e em nuvem sejam realmente importantes neste momento, o que nos traz esse benefício em expandirmos nossos conhecimentos. Com tantos benefícios da nuvem privada, pública e híbrida, as pessoas têm a possibilidade de se adaptarem conforme suas necessidades, o que ajuda muito empresas e clientes, muitas vezes reduzindo custos que antes não eram utilizados, e compartilhando seus serviços com outras pessoas.
